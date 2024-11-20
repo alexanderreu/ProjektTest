@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ordination-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee478329717a3d38f86a7b3e0954b28ea235f6bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa6a9dc1d3277c334cd7d4a2e639fd995b8f2cdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ordination-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ordination-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
