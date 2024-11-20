@@ -10,3 +10,15 @@
 /Users/alex/Desktop/PROJEKT/shared/obj/Debug/net6.0/refint/shared.dll
 /Users/alex/Desktop/PROJEKT/shared/obj/Debug/net6.0/shared.pdb
 /Users/alex/Desktop/PROJEKT/shared/obj/Debug/net6.0/ref/shared.dll
+/Users/nicklas/Projects/ProjektTest/shared/bin/Debug/net6.0/shared.deps.json
+/Users/nicklas/Projects/ProjektTest/shared/bin/Debug/net6.0/shared.dll
+/Users/nicklas/Projects/ProjektTest/shared/bin/Debug/net6.0/shared.pdb
+/Users/nicklas/Projects/ProjektTest/shared/obj/Debug/net6.0/shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicklas/Projects/ProjektTest/shared/obj/Debug/net6.0/shared.AssemblyInfoInputs.cache
+/Users/nicklas/Projects/ProjektTest/shared/obj/Debug/net6.0/shared.AssemblyInfo.cs
+/Users/nicklas/Projects/ProjektTest/shared/obj/Debug/net6.0/shared.csproj.CoreCompileInputs.cache
+/Users/nicklas/Projects/ProjektTest/shared/obj/Debug/net6.0/shared.sourcelink.json
+/Users/nicklas/Projects/ProjektTest/shared/obj/Debug/net6.0/shared.dll
+/Users/nicklas/Projects/ProjektTest/shared/obj/Debug/net6.0/refint/shared.dll
+/Users/nicklas/Projects/ProjektTest/shared/obj/Debug/net6.0/shared.pdb
+/Users/nicklas/Projects/ProjektTest/shared/obj/Debug/net6.0/ref/shared.dll
