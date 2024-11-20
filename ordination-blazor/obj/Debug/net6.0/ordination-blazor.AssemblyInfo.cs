@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ordination-blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00d3dfb40f3026bcac79210659a77e12af89f385")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f4e286a7087a5dfdac08df0dccbe0e7ad7bc4f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ordination-blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ordination-blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

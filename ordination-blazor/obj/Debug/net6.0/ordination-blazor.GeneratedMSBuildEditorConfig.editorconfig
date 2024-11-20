@@ -13,75 +13,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = ordination-blazor
 build_property.RootNamespace = ordination-blazor
-build_property.ProjectDir = /Users/alex/Desktop/PROJEKT/ordination-blazor/
+build_property.ProjectDir = /Users/nicklas/Projects/ProjektTest/ordination-blazor/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/alex/Desktop/PROJEKT/ordination-blazor
+build_property.MSBuildProjectDirectory = /Users/nicklas/Projects/ProjektTest/ordination-blazor
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/App.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Pages/OpretOrdination.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Pages/OpretOrdination.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3ByZXRPcmRpbmF0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Pages/VisOrdinationer.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Pages/VisOrdinationer.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmlzT3JkaW5hdGlvbmVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Pages/VisStatistik.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Pages/VisStatistik.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmlzU3RhdGlzdGlrLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Shared/FastDetails.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Shared/FastDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0Zhc3REZXRhaWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Shared/LaegemiddelList.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Shared/LaegemiddelList.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0xhZWdlbWlkZGVsTGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Shared/OpretDagligFast.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Shared/OpretDagligFast.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL09wcmV0RGFnbGlnRmFzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Shared/OpretDagligSkaev.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Shared/OpretDagligSkaev.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL09wcmV0RGFnbGlnU2thZXYucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Shared/OpretPN.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Shared/OpretPN.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL09wcmV0UE4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Shared/OrdinationList.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Shared/OrdinationList.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL09yZGluYXRpb25MaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Shared/PNDetails.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Shared/PNDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1BORGV0YWlscy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Shared/SkævDetails.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Shared/SkævDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1Nrw6Z2RGV0YWlscy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/_Imports.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Pages/Index.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-yzrft50lcn
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Shared/MainLayout.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-qcm0dau849
 
-[/Users/alex/Desktop/PROJEKT/ordination-blazor/Shared/PatientList.razor]
+[/Users/nicklas/Projects/ProjektTest/ordination-blazor/Shared/PatientList.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1BhdGllbnRMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-od09i8dsru
