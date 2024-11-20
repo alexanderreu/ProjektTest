@@ -1,0 +1,12 @@
+/Users/alex/Desktop/PROJEKT/shared/bin/Debug/net6.0/shared.deps.json
+/Users/alex/Desktop/PROJEKT/shared/bin/Debug/net6.0/shared.dll
+/Users/alex/Desktop/PROJEKT/shared/bin/Debug/net6.0/shared.pdb
+/Users/alex/Desktop/PROJEKT/shared/obj/Debug/net6.0/shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Desktop/PROJEKT/shared/obj/Debug/net6.0/shared.AssemblyInfoInputs.cache
+/Users/alex/Desktop/PROJEKT/shared/obj/Debug/net6.0/shared.AssemblyInfo.cs
+/Users/alex/Desktop/PROJEKT/shared/obj/Debug/net6.0/shared.csproj.CoreCompileInputs.cache
+/Users/alex/Desktop/PROJEKT/shared/obj/Debug/net6.0/shared.sourcelink.json
+/Users/alex/Desktop/PROJEKT/shared/obj/Debug/net6.0/shared.dll
+/Users/alex/Desktop/PROJEKT/shared/obj/Debug/net6.0/refint/shared.dll
+/Users/alex/Desktop/PROJEKT/shared/obj/Debug/net6.0/shared.pdb
+/Users/alex/Desktop/PROJEKT/shared/obj/Debug/net6.0/ref/shared.dll
