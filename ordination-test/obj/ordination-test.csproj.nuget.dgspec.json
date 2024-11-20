@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nicklas/Projects/ProjektTest/ordination-test/ordination-test.csproj": {}
+    "/Users/alex/Desktop/PROJEKT/ordination-test/ordination-test.csproj": {}
   },
   "projects": {
-    "/Users/nicklas/Projects/ProjektTest/ordination-api/ordination-api.csproj": {
+    "/Users/alex/Desktop/PROJEKT/ordination-api/ordination-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicklas/Projects/ProjektTest/ordination-api/ordination-api.csproj",
+        "projectUniqueName": "/Users/alex/Desktop/PROJEKT/ordination-api/ordination-api.csproj",
         "projectName": "ordination-api",
-        "projectPath": "/Users/nicklas/Projects/ProjektTest/ordination-api/ordination-api.csproj",
-        "packagesPath": "/Users/nicklas/.nuget/packages/",
-        "outputPath": "/Users/nicklas/Projects/ProjektTest/ordination-api/obj/",
+        "projectPath": "/Users/alex/Desktop/PROJEKT/ordination-api/ordination-api.csproj",
+        "packagesPath": "/Users/alex/.nuget/packages/",
+        "outputPath": "/Users/alex/Desktop/PROJEKT/ordination-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nicklas/.nuget/NuGet/NuGet.Config"
+          "/Users/alex/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/nicklas/Projects/ProjektTest/shared/shared.csproj": {
-                "projectPath": "/Users/nicklas/Projects/ProjektTest/shared/shared.csproj"
+              "/Users/alex/Desktop/PROJEKT/shared/shared.csproj": {
+                "projectPath": "/Users/alex/Desktop/PROJEKT/shared/shared.csproj"
               }
             }
           }
@@ -36,11 +36,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -81,21 +76,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/nicklas/Projects/ProjektTest/ordination-test/ordination-test.csproj": {
+    "/Users/alex/Desktop/PROJEKT/ordination-test/ordination-test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicklas/Projects/ProjektTest/ordination-test/ordination-test.csproj",
+        "projectUniqueName": "/Users/alex/Desktop/PROJEKT/ordination-test/ordination-test.csproj",
         "projectName": "ordination-test",
-        "projectPath": "/Users/nicklas/Projects/ProjektTest/ordination-test/ordination-test.csproj",
-        "packagesPath": "/Users/nicklas/.nuget/packages/",
-        "outputPath": "/Users/nicklas/Projects/ProjektTest/ordination-test/obj/",
+        "projectPath": "/Users/alex/Desktop/PROJEKT/ordination-test/ordination-test.csproj",
+        "packagesPath": "/Users/alex/.nuget/packages/",
+        "outputPath": "/Users/alex/Desktop/PROJEKT/ordination-test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nicklas/.nuget/NuGet/NuGet.Config"
+          "/Users/alex/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -107,11 +102,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/nicklas/Projects/ProjektTest/ordination-api/ordination-api.csproj": {
-                "projectPath": "/Users/nicklas/Projects/ProjektTest/ordination-api/ordination-api.csproj"
+              "/Users/alex/Desktop/PROJEKT/ordination-api/ordination-api.csproj": {
+                "projectPath": "/Users/alex/Desktop/PROJEKT/ordination-api/ordination-api.csproj"
               },
-              "/Users/nicklas/Projects/ProjektTest/shared/shared.csproj": {
-                "projectPath": "/Users/nicklas/Projects/ProjektTest/shared/shared.csproj"
+              "/Users/alex/Desktop/PROJEKT/shared/shared.csproj": {
+                "projectPath": "/Users/alex/Desktop/PROJEKT/shared/shared.csproj"
               }
             }
           }
@@ -120,11 +115,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -168,21 +158,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/nicklas/Projects/ProjektTest/shared/shared.csproj": {
+    "/Users/alex/Desktop/PROJEKT/shared/shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicklas/Projects/ProjektTest/shared/shared.csproj",
+        "projectUniqueName": "/Users/alex/Desktop/PROJEKT/shared/shared.csproj",
         "projectName": "shared",
-        "projectPath": "/Users/nicklas/Projects/ProjektTest/shared/shared.csproj",
-        "packagesPath": "/Users/nicklas/.nuget/packages/",
-        "outputPath": "/Users/nicklas/Projects/ProjektTest/shared/obj/",
+        "projectPath": "/Users/alex/Desktop/PROJEKT/shared/shared.csproj",
+        "packagesPath": "/Users/alex/.nuget/packages/",
+        "outputPath": "/Users/alex/Desktop/PROJEKT/shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nicklas/.nuget/NuGet/NuGet.Config"
+          "/Users/alex/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -200,11 +190,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -226,7 +211,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }

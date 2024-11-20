@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nicklas/Projects/ProjektTest/ordination-blazor/ordination-blazor.csproj": {}
+    "/Users/alex/Desktop/PROJEKT/ordination-blazor/ordination-blazor.csproj": {}
   },
   "projects": {
-    "/Users/nicklas/Projects/ProjektTest/ordination-blazor/ordination-blazor.csproj": {
+    "/Users/alex/Desktop/PROJEKT/ordination-blazor/ordination-blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicklas/Projects/ProjektTest/ordination-blazor/ordination-blazor.csproj",
+        "projectUniqueName": "/Users/alex/Desktop/PROJEKT/ordination-blazor/ordination-blazor.csproj",
         "projectName": "ordination-blazor",
-        "projectPath": "/Users/nicklas/Projects/ProjektTest/ordination-blazor/ordination-blazor.csproj",
-        "packagesPath": "/Users/nicklas/.nuget/packages/",
-        "outputPath": "/Users/nicklas/Projects/ProjektTest/ordination-blazor/obj/",
+        "projectPath": "/Users/alex/Desktop/PROJEKT/ordination-blazor/ordination-blazor.csproj",
+        "packagesPath": "/Users/alex/.nuget/packages/",
+        "outputPath": "/Users/alex/Desktop/PROJEKT/ordination-blazor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nicklas/.nuget/NuGet/NuGet.Config"
+          "/Users/alex/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/nicklas/Projects/ProjektTest/shared/shared.csproj": {
-                "projectPath": "/Users/nicklas/Projects/ProjektTest/shared/shared.csproj"
+              "/Users/alex/Desktop/PROJEKT/shared/shared.csproj": {
+                "projectPath": "/Users/alex/Desktop/PROJEKT/shared/shared.csproj"
               }
             }
           }
@@ -36,11 +36,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,19 +54,19 @@
             "Microsoft.NET.ILLink.Analyzers": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.100-1.23211.1, )",
+              "version": "[7.0.100-1.23401.1, )",
               "autoReferenced": true
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.100-1.23211.1, )",
+              "version": "[7.0.100-1.23401.1, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.3, )",
+              "version": "[8.0.10, )",
               "autoReferenced": true
             }
           },
@@ -89,7 +84,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.28, 6.0.28]"
+              "version": "[6.0.35, 6.0.35]"
             }
           ],
           "frameworkReferences": {
@@ -97,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -106,17 +101,17 @@
         }
       }
     },
-    "/Users/nicklas/Projects/ProjektTest/shared/shared.csproj": {
+    "/Users/alex/Desktop/PROJEKT/shared/shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nicklas/Projects/ProjektTest/shared/shared.csproj",
+        "projectUniqueName": "/Users/alex/Desktop/PROJEKT/shared/shared.csproj",
         "projectName": "shared",
-        "projectPath": "/Users/nicklas/Projects/ProjektTest/shared/shared.csproj",
-        "packagesPath": "/Users/nicklas/.nuget/packages/",
-        "outputPath": "/Users/nicklas/Projects/ProjektTest/shared/obj/",
+        "projectPath": "/Users/alex/Desktop/PROJEKT/shared/shared.csproj",
+        "packagesPath": "/Users/alex/.nuget/packages/",
+        "outputPath": "/Users/alex/Desktop/PROJEKT/shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nicklas/.nuget/NuGet/NuGet.Config"
+          "/Users/alex/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -134,11 +129,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -160,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }
